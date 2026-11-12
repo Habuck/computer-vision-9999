@@ -1,0 +1,2 @@
+SIFT Keypoints (L),SIFT Keypoints (R),Ratio-Test Matches,RANSAC Inliers,Inlier Ratio (%),Mean Epipolar Error (px),Mean Sampson Error (px),Mean |yL - yR| of Inliers (px)
+706,729,337,315,93.47,0.2389,0.1689,0.1741
